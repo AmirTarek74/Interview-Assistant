@@ -4,7 +4,7 @@ A lightweight workflow that uses LangGraph, Google’s Gemini LLM, and the Tavil
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Contextual Search**  
   Uses TavilySearchResults to fetch up to 5 relevant search results for any interview topic.
